@@ -1,0 +1,10 @@
+A=[inst_power(m_a01),inst_power(m_a02),inst_power(map_a01),inst_power(map_a02),inst_power(m_a03),inst_power(m_a04),inst_power(ques_a01),inst_power(resp_a01),inst_power(ques_a02)];
+figure;imagesc(A)
+B=[inst_power(m_b01),inst_power(m_b02),inst_power(map_b01),inst_power(map_b02),inst_power(m_b03),inst_power(m_b04),inst_power(ques_b01),inst_power(resp_b01),inst_power(ques_b02)];
+figure;imagesc(B)
+D=[inst_power(m_d01),inst_power(m_d02),inst_power(map_d01),inst_power(map_d02),inst_power(m_d03),inst_power(m_d04),inst_power(ques_d01),inst_power(resp_d01),inst_power(ques_d02)];
+figure;imagesc(D)
+T=[inst_power(m_t01),inst_power(m_t02),inst_power(map_t01),inst_power(map_t02),inst_power(m_t03),inst_power(m_t04),inst_power(ques_t01),inst_power(resp_t01),inst_power(ques_t02)];
+figure;imagesc(T)
+G=[inst_power(m_g01),inst_power(m_g02),inst_power(map_g01),inst_power(map_g02),inst_power(m_g03),inst_power(m_g04),inst_power(ques_g01),inst_power(resp_g01),inst_power(ques_g02)];
+figure;imagesc(G)

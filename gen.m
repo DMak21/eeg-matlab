@@ -1,0 +1,12 @@
+figure;
+gen_all_graphs('m', 'b',1, 4, 75);
+figure;
+gen_all_graphs('m', 'b',5, 8, 75);
+figure;
+gen_all_graphs('m', 'b',9, 12, 75);
+figure;
+gen_all_graphs('m', 'b',13, 16, 75);
+figure;
+gen_all_graphs('m', 'b',17, 20, 75);
+figure;
+gen_all_graphs('m', 'b',21, 23, 75);

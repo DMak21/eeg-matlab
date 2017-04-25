@@ -7,5 +7,7 @@ for i=1:32
     d(i,:)=filter(delta,1,input(i,:));
     t(i,:)=filter(theta,1,input(i,:));
     g(i,:)=filter(gamma,1,input(i,:));
+
 end
+
 end
